@@ -1,0 +1,48 @@
+250 78
+263 81
+269 95
+272 104
+278 110
+283 127
+285 135
+286 143
+284 158
+282 173
+276 183
+273 194
+270 208
+263 217
+255 228
+240 234
+233 240
+225 249
+225 261
+218 270
+208 272
+197 272
+187 264
+180 253
+176 241
+173 233
+172 223
+172 215
+173 205
+173 193
+174 184
+176 169
+179 157
+181 146
+185 131
+190 119
+196 108
+209 96
+220 87
+226 81
+237 75
+246 74
+
+
+
+
+Hi Natalie,I am Christin Wilson, a masters student in Computer Science at Clemson University. I saw a posting on our School of Computing's job board about BMW IT innovation lab looking for Spring Interns and I would like to express my interest in the position. I am currently working as a Research Assistant at the School of Computing. I have taken relevant coursework in data science and have completed a few machine learning projects as well. These are listed in my resume. I am currently looking for Spring Coops as well as Full-time positions that start from next Summer. I have attached my resume along with this mail for your reference. Please let me know if I can provide any further information on my background and qualifications.Thank you so much for your time. I look forward to hearing back from you.
+Sincerely,Christin
